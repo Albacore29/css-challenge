@@ -111,8 +111,8 @@ body {
 
 /* About page */
 .two-column-wrapper {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+     display: grid;
+     grid-template-columns: 1fr 1fr;
 }
 
 .profile-image-wrapper img {
